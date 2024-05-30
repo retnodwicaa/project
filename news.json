@@ -1,6 +1,5 @@
-{
-    "result": [
-        {
+[
+  {
             "title": "Kasus Pelecehan Seksual di Universitas Gunadarma",
             "date": "2022-12-12",
             "location": "Depok, Jawa Barat",
@@ -120,5 +119,4 @@
                 "foto-19-11-2023-02-50-47-3512.jpg"
             ]
         }
-    ]
-}
+]
